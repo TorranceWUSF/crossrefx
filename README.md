@@ -1,2 +1,10 @@
 # crossrefx
 R package used to display usable statistics of uploaded files 
+Package: crossrefx
+Titile: R package used to display usable statistics of uploaded files 
+Version: 0.0.0.1
+Authors@R: Torrance Williams, torrancew@mail.usf.edu
+Description: This package is useful for analyzing the similarities between two or more text files and displaying that data in usable forms. It can also be used to analyze single text files and to pull statistics from that file. The functions within work with text files and PDF files. The goal is to provide important information such as: keyword frequency, keyword simularity,  and charts and text that display this information.  
+Depends: R (>= 3.1.2)
+License: CCO
+LazyData: true
